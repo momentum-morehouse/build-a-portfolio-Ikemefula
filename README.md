@@ -29,3 +29,10 @@ Your site does not have to have the same layout as these wireframes, but they ar
 ![desktop projects](desktop-projects.png)
 
 ![desktop resumé](desktop-resume.png)
+
+
+
+notes: 
+i want to change the color of the font.
+I want to move my picture collage down to the middle of the page 
+i want to insert my behance page as my link

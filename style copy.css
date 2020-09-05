@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(37, 31, 31);
 }
 img {
     width: 25%;
@@ -14,5 +14,5 @@ img {
   }
 
   .about-me-body {
-      background-color: purple;
+      background-color: rgb(114, 4, 4);
   }

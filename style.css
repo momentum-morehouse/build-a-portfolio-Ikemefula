@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 body {
     background-color: aquamarine;
+=======
+body {
+    background-color:rgb(24, 23, 23);
+>>>>>>> 4f1bd8dfddd8f73f5ef56d1e9bb3cab42ebb9e42
 }
 img {
     width: 25%;
@@ -15,6 +20,7 @@ img {
   }
 
   .about-me-body {
+<<<<<<< HEAD
       background-color: purple;
   }
 =======
@@ -49,3 +55,7 @@ a :hover
     box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3, 
 }
 >>>>>>> Stashed changes
+=======
+      background-color: rgb(100, 15, 15);
+  }
+>>>>>>> 4f1bd8dfddd8f73f5ef56d1e9bb3cab42ebb9e42

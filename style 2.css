@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(37, 31, 31);
+    background-color:rgb(24, 23, 23);
 }
 img {
     width: 25%;
@@ -14,5 +14,6 @@ img {
   }
 
   .about-me-body {
-      background-color: rgb(114, 4, 4);
+
+      background-color: purple;
   }

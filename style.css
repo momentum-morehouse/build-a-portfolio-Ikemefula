@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 body {
-    background-color: aquamarine;
-=======
-body {
-    background-color:rgb(24, 23, 23);
->>>>>>> 4f1bd8dfddd8f73f5ef56d1e9bb3cab42ebb9e42
+    background-color: rgb(37, 31, 31);
 }
 img {
     width: 25%;
@@ -20,6 +14,5 @@ img {
   }
 
   .about-me-body {
-<<<<<<< HEAD
-      background-color: purple;
+      background-color: rgb(114, 4, 4);
   }

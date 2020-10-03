@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(37, 31, 31);
+	background: linear-gradient(90deg, hsla(0, 0%, 15%, 1) 0%, hsla(274, 86%, 34%, 1) 100%);
 }
 img {
     width: 25%;
@@ -14,5 +14,35 @@ img {
   }
 
   .about-me-body {
-      background-color: rgb(114, 4, 4);
+      background-color: hsla(114, 4, 4);
   }
+  .Neon-Light-Button-Hover-Effects {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: vh;
+        background:rgb (114, 4,4);
+        font-family:sans-serif;
+    }
+    a
+    {
+        position: relative;
+        display: inline-block;
+        padding: 15px 30px; 
+        color: rgb (32,23,24);
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        text-decoration: none;
+        font-size: 30px;
+        overflow: hidden;
+        transition: 0.2s;
+    }
+    a:hover
+    {
+        color: #255784;
+        background: #2196f3;
+        box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    }
+    
